@@ -27,10 +27,12 @@ _January 2022 – July 2024_
 
 ## Education
 
-- **M.S., Software Design** – IT University of Copenhagen (_August 2024 - August 2027_)  
-  Focus: Data Analytics, AI, Big Data Systems, Machine Learning
+**M.S., Software Design** – IT University of Copenhagen 
+_August 2024 - August 2027_
+Focus: Data Analytics, AI, Big Data Systems, Machine Learning
 
-- **B.S., Engineering** – University of São Paulo (_January 2016 - December 2021_)
+**B.S., Engineering** – University of São Paulo 
+_January 2016 - December 2021_
 
 <!--
 ## Work Experience
@@ -63,7 +65,7 @@ _January 2019 – July 2024_
 - **Languages:** Python, Java, SQL, C#, LaTeX  
 - **Python Libraries:** pandas, numpy, matplotlib, seaborn  
 - **Data & Analytics Tools:** Power BI, Power Automate (learning), Excel, DBeaver  
-- **Development Tools:** Git, GitHub, VS Code  
+- **Development Tools:** Git, GitHub, VS Code, Jira
 - **Concepts:** Data Cleaning, Data Visualization, Relational Databases, Data Mining, Big Data Systems, Agile Framework (SCRUM)
 
 ---
