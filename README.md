@@ -77,11 +77,15 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 
 ## Data Science & Machine Learning Projects
 
+- [**Object Tracking & Image Projection**](https://github.com/alimacunha/IML-Object-Tracking-and-Image-Projection)  
+  Implemented affine 2D transformations to project tracked image coordinates onto a spatial map, combining geometric modeling, regression, and visualization techniques.
+
 - [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction)  
   Created a linear regression model to predict U.S. housing prices based on demographic data.
 
 - [**Heart Attack Prediction**](https://github.com/alimacunha/heart-attack-prediction)  
   Performed comparative analysis with logistic regression and decision tree classifiers.
+
   
 <!--
 - [**Image Recognition with CNN (LeNet)**](https://github.com/alimacunha/image-recognition-cnn)  
