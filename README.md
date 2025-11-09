@@ -53,6 +53,11 @@ _January 2016 – December 2021_
   Implemented affine 2D transformations to project tracked image coordinates onto a spatial map, combining geometric modeling, regression, and visualization techniques.
 
   ![Camera / Plan](Images/output.png)
+  
+- [**Iris Detection and Tracking **]
+  Implemented iris detection to locate pupil centers in eye images and built a screen coordinates model for calibration.
+  
+  ![Iris detection / Screen Coordinates](Images/pupil.png)
 
 - [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction) 🔗  
   Created a linear regression model to predict U.S. housing prices based on demographic data.
