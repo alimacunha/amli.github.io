@@ -14,6 +14,27 @@ Welcome to my portfolio! I am a MSc Software Design student with a focus on data
 
 ---
 
+## Professional Experience
+
+**Software Developer – Sealytix, Copenhagen**  
+_April 2025 – Present_  
+- Automate vessel onboarding processes through backend development and API integration.  
+- Build and maintain tools to validate and benchmark vessel performance across client datasets.  
+- Work with Azure-based data infrastructure and CI/CD pipelines to ensure scalability and automation efficiency.
+
+**Teaching Assistant – Software Engineering, IT University of Copenhagen**  
+_August 2025 – Present_  
+- Support students in agile practices, software architecture, and testing methodologies.  
+- Provide feedback on assignments and facilitate discussions on software design concepts.
+
+**Architect / Computational Designer – Bjarke Ingels Group (BIG), Copenhagen**  
+_January 2022 – July 2024_  
+- Developed Python scripts and automation workflows to optimize design and data analysis processes.  
+- Conducted environmental simulations and produced analytical reports for large-scale projects.  
+- Collaborated with multidisciplinary teams to integrate computational insights into design decisions.
+
+---
+
 ## Education
 
 - **M.S., Software Design** – IT University of Copenhagen (_August 2024 - August 2027_)  
