@@ -49,15 +49,15 @@ _January 2016 – December 2021_
 
 ## Data Science & Machine Learning Projects
 
-- [**Object Tracking & Image Projection**](https://github.com/alimacunha/IML-Object-Tracking-and-Image-Projection)  
+- [**Object Tracking & Image Projection**](https://github.com/alimacunha/IML-Object-Tracking-and-Image-Projection) 🔗
   Implemented affine 2D transformations to project tracked image coordinates onto a spatial map, combining geometric modeling, regression, and visualization techniques.
 
   ![Camera / Plan](Images/output.png)
 
-- [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction)  
+- [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction) 🔗  
   Created a linear regression model to predict U.S. housing prices based on demographic data.
 
-- [**Heart Attack Prediction**](https://github.com/alimacunha/heart-attack-prediction)  
+- [**Heart Attack Prediction**](https://github.com/alimacunha/heart-attack-prediction) 🔗 
   Performed comparative analysis with logistic regression and decision tree classifiers.
 
   
@@ -73,17 +73,17 @@ _January 2016 – December 2021_
 
 ## Algorithms & Logic-Based AI Projects
 
-- [**Othello AI with Alpha-Beta MinMax**](https://github.itu.dk/amli/OthelloProject)  
+- [**Othello AI with Alpha-Beta MinMax**](https://github.itu.dk/amli/OthelloProject) 🔗 
   Designed a strategic AI player for Othello using alpha-beta pruning optimization.
 
-- [**Sudoku Solver**](https://github.com/alimacunha/Sudoku-Game-AI)  
+- [**Sudoku Solver**](https://github.com/alimacunha/Sudoku-Game-AI) 🔗
   Implemented constraint satisfaction techniques including forward checking and arc consistency.
 
 ---
 
 ## Software Engineering Projects
 
-- [**Search Engine in Java**](https://github.com/alimacunha/Search-Engine-Java)  
+- [**Search Engine in Java**](https://github.com/alimacunha/Search-Engine-Java) 🔗 
   Developed a search engine featuring indexing, ranking algorithms, and query processing.
 
   
