@@ -54,7 +54,7 @@ _January 2016 – December 2021_
 
   ![Camera / Plan](Images/output.png)
   
-- **Iris Detection and Tracking**
+- **Iris Detection and Tracking**  
   Implemented iris detection to locate pupil centers in eye images and built a screen coordinates model for calibration.
   
   ![Iris detection / Screen Coordinates](Images/pupil.png) 
