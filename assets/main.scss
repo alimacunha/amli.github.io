@@ -1,0 +1,7 @@
+.site-title::before {
+  content: url("/assets/itu-logo.png");
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+  width: 30px; /* adjust size */
+}
